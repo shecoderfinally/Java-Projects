@@ -1,5 +1,5 @@
 # Hello Everyone! 👋👋
-## Ready to play your TIC-TAC-TOE Game??
+## Ready to play your TIC-TAC-TOE Game??🏁
 
 ### Here are the rules you need to keep in mind: 🌟✌️🌟
 1)You need to get three consecutive crosses to win the game.
